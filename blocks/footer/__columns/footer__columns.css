@@ -3,5 +3,5 @@
   display: flex;
   width: 90%;
   justify-content: space-between;
-  min-height: 250px;
+  flex: 1;
 }
